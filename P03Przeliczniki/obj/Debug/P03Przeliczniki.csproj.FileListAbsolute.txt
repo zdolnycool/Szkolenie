@@ -1,0 +1,10 @@
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\bin\Debug\P03Przeliczniki.exe.config
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\bin\Debug\P03Przeliczniki.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\bin\Debug\P03Przeliczniki.pdb
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.csprojAssemblyReference.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.Form1.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.Properties.Resources.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.csproj.GenerateResource.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.csproj.CoreCompileInputs.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P03Przeliczniki\obj\Debug\P03Przeliczniki.pdb

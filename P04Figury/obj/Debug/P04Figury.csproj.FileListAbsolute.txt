@@ -1,0 +1,10 @@
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.csprojAssemblyReference.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.Form1.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.Properties.Resources.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.csproj.GenerateResource.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.csproj.CoreCompileInputs.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\bin\Debug\P04Figury.exe.config
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\bin\Debug\P04Figury.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\bin\Debug\P04Figury.pdb
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P04Figury\obj\Debug\P04Figury.pdb

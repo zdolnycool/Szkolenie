@@ -1,0 +1,10 @@
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\bin\Debug\P01ZadanieBMI.exe.config
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\bin\Debug\P01ZadanieBMI.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\bin\Debug\P01ZadanieBMI.pdb
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.csprojAssemblyReference.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.Form1.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.Properties.Resources.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.csproj.GenerateResource.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.csproj.CoreCompileInputs.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P01ZadanieBMI\obj\Debug\P01ZadanieBMI.pdb

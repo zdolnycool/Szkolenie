@@ -1,0 +1,10 @@
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\bin\Debug\P02Hotel.exe.config
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\bin\Debug\P02Hotel.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\bin\Debug\P02Hotel.pdb
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.csprojAssemblyReference.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.Form1.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.Properties.Resources.resources
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.csproj.GenerateResource.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.csproj.CoreCompileInputs.cache
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.exe
+c:\users\zdolny & denia\source\repos\CwiczeniaALX\P02Hotel\obj\Debug\P02Hotel.pdb
