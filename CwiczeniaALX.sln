@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03Przeliczniki", "P03Przel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04Figury", "P04Figury\P04Figury.csproj", "{C9ED9B58-0339-41BD-8E66-5281BF5A541D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05Ogloszenia", "P05Ogloszenia\P05Ogloszenia.csproj", "{3A147C08-DD1F-4D87-90FC-281B1BB7F42E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C9ED9B58-0339-41BD-8E66-5281BF5A541D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9ED9B58-0339-41BD-8E66-5281BF5A541D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9ED9B58-0339-41BD-8E66-5281BF5A541D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A147C08-DD1F-4D87-90FC-281B1BB7F42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A147C08-DD1F-4D87-90FC-281B1BB7F42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A147C08-DD1F-4D87-90FC-281B1BB7F42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A147C08-DD1F-4D87-90FC-281B1BB7F42E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
